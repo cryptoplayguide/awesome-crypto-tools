@@ -114,6 +114,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [Moralis](https://moralis.io) — Web3 data APIs and cross-chain support.
 - [Pyth Network](https://pyth.network) — High-frequency price oracle for DeFi.
 - [Chainlink](https://chain.link) — Decentralized oracle network.
+- [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) — Open-source browser verifier for HMAC-SHA256 provably fair outcomes (Dice, Limbo, Crash, Mines, Plinko drop path).
 
 ## Security
 
